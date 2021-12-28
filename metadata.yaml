@@ -1,5 +1,8 @@
 _repo: Ealing-and-its-Vicinity_66937
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66937-h/images/cover.jpg
 creator:
   author:
     agent_name: Sykes, D. F. E.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '47627'
     url: http://www.gutenberg.org/2009/agents/47627
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66937#Ealing-and-its-Vicinity
 gutenberg_issued: '2021-12-13'
 identifiers:
   gutenberg: '66937'
